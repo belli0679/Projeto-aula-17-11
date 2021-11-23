@@ -133,6 +133,6 @@ function balaorosafuncao(){
   rosa.addImage(balaorosa);
   rosa.velocityX = 3;
   rosa.lifetime = 150;
-  rosa.scale = 0.1;
+  rosa.scale = 1;
 
 }
